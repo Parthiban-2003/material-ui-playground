@@ -1,5 +1,6 @@
 import './App.css';
 import ButtonMUI from './buttons/Buttons';
+import CardsMUI from './cards/Cards';
 import TextFieldsMUI from './textField/TextFields';
 import TypographyMUI from './typography/Typography';
 
@@ -11,6 +12,7 @@ function App() {
         <ButtonMUI /> <br />
         <TypographyMUI/> <br />
         <TextFieldsMUI/> <br />
+        <CardsMUI/> <br />
       </div>
     </>
   )
