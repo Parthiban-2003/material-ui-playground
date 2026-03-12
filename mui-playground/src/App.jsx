@@ -1,12 +1,14 @@
 import './App.css';
-import ButtonMUI from './Buttons/buttons';
+import ButtonMUI from './buttons/Buttons';
+import TypographyMUI from './typography/Typography';
 
 function App() {
 
   return (
     <>
       <div>
-        <ButtonMUI />
+        <ButtonMUI /> <br />
+        <TypographyMUI/> <br />
       </div>
     </>
   )
