@@ -1,5 +1,6 @@
 import './App.css';
 import AppBarMUI from './appBar/AppBar';
+import BoxsMUI from './box/Boxs';
 import BoxModelMUI from './boxModel/BoxModel';
 import ButtonMUI from './buttons/Buttons';
 import CardsMUI from './cards/Cards';
@@ -17,6 +18,7 @@ function App() {
         <CardsMUI/> <br />
         <AppBarMUI/> <br />
         <BoxModelMUI/><br />
+        <BoxsMUI/> <br />
       </div>
     </>
   )
